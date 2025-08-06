@@ -8,7 +8,7 @@ console.log('server is starting')
 
 const allowedOrigins = [
     "http://localhost:5173",
-    // add vercel link url here
+    "digital-garden-client-75iiekjbp-dennisk94s-projects.vercel.app",
 ];
 
 
