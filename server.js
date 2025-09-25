@@ -9,8 +9,8 @@ console.log('server is starting');
 const allowedOrigins = [
     'http://localhost:5173',
     // ⚠️ Origins include protocol — add https://
-    // 'https://digital-garden-client-75iiekjbp-dennisk94s-projects.vercel.app',
-    'https://digital-garden.bomjukim.com/',
+    'https://digital-garden-client-75iiekjbp-dennisk94s-projects.vercel.app',
+    'https://digital-garden.bomjukim.com',
 ];
 
 app.use(cors({
